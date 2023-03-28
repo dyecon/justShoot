@@ -5,4 +5,4 @@ References:
 - [Fullscreen video](https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
 - [Accordion](https://www.w3schools.com/howto/howto_js_accordion.asp)
 - [Avatar Images](https://www.w3schools.com/howto/howto_css_image_avatar.asp)
-- [Faind Buttons](https://www.w3schools.com/howto/howto_css_fading_buttons.asp)
+- [Fading Buttons](https://www.w3schools.com/howto/howto_css_fading_buttons.asp)
