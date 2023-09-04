@@ -252,8 +252,8 @@ body, html {
 
 /* Accordion */
 .accordion {
-    background-color: #eee;
-    color: #444;
+    background-color: #1e1545;
+    color: #ddd;
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -266,12 +266,12 @@ body, html {
 }
   
 .active, .accordion:hover {
-    background-color: #ccc;
+    background-color: #dd760f;
 }
   
 .panel {
     padding: 0 18px;
-    background-color: white;
+    background-color: rgb(5, 0, 36);
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
